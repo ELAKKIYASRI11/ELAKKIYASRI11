@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👋+Hello+World!+I'm+Elakkiyasri;💻+Java+Developer+%7C+Problem+Solver;🌱+Leveling+Up+DSA+Every+Day!" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=false&width=700&height=60&lines=%F0%9F%91%8B+Hello+World!+I%27m+Elakkiyasri;%F0%9F%92%BB+Java+Developer+%7C+Problem+Solver;%F0%9F%8C%B1+Leveling+Up+DSA+Every+Day!" alt="Typing SVG" />
 
 <br/>
 
-<!-- Colorful Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Elakkiyasri%20Sri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Developer%20%7C%20Creative%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=16" />
 
 </div>
@@ -14,71 +12,31 @@
 
 ## 💫 About Me
 
-```java
-public class Elakkiyasri {
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
-    String[] languages    = {"C", "Java", "SQL"};
-    String[] tools        = {"Figma", "Canva", "Vercel"};
-    String   currentFocus = "Leveling up DSA skills 🚀";
-    String   superpower   = "Plan → Code → Document → Improve 🔁";
+<br/>
 
-    String motto() {
-        return "Scheduling goals is the key to productivity 📅";
-    }
-}
-```
+> 💡 *"Plan it. Code it. Document it. Improve it."*
 
-- 🔥 Passionate **Java Developer** | Creative **Problem Solver** | **Lifelong Learner**
-- 📝 I always **take notes and plan** before writing a single line of code
-- 🔁 I document **everything** — successes, failures, and even small lessons
-- 💡 When something fails, I'm not afraid to **start from scratch** — best solutions live there!
-- 🤝 Always excited to **learn, build, and collaborate** on meaningful projects!
+<br/>
 
----
+👋 **Hello World! I'm Elakkiyasri**
 
-## 🗺️ Currently Learning / Roadmap
+💻 Passionate **Java Developer** | Creative **Problem Solver** | **Lifelong Learner**
 
-<div align="center">
+<br/>
 
-| Stage | Topic | Status |
-|:---:|:---|:---:|
-| ✅ | Core Java & OOP | Completed |
-| ✅ | SQL & Databases | Completed |
-| 🔥 | Data Structures & Algorithms | In Progress |
-| 📌 | Collections Framework (Java) | Up Next |
-| 🎯 | Spring Boot Basics | Planned |
-| 🚀 | System Design Fundamentals | Planned |
+- 🌱 Currently leveling up my **DSA skills**
+- ✍️ I always **take notes and plan** before starting any work
+- 🔁 I document **everything** — successes, failures, and small lessons
+- 🤝 Always excited to **learn, build, and collaborate!**
 
-</div>
+<br/>
 
-```
-📍 DSA Progress:
-Arrays      ████████████████████ 100%
-Strings     ██████████████░░░░░░  70%
-LinkedList  ████████░░░░░░░░░░░░  40%
-Trees       ████░░░░░░░░░░░░░░░░  20%
-Graphs      ░░░░░░░░░░░░░░░░░░░░   0%
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
----
 
-## 🚀 Project Showcase
-
-<div align="center">
-
-| 🗂️ Project | 📖 Description | 🛠️ Tech Stack |
-|:---|:---|:---|
-| 🔐 **[Coming Soon]** | Authentication System | Java, SQL |
-| 📊 **[Coming Soon]** | DSA Visualizer | Java, Swing |
-| 🌐 **[Coming Soon]** | Portfolio Website | HTML, CSS, JS |
-
-> 🔨 *Projects are being built — watch this space!*
-
-</div>
-
----
-
-## 🌐 Connect With Me
+## 🌐 Social
 
 <div align="center">
 
@@ -89,27 +47,41 @@ Graphs      ░░░░░░░░░░░░░░░░░░░░   0%
 </div>
 
 ---
-
 ## 💻 Tech Stack
 
 <div align="center">
 
+### 💻 Languages
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🎨 UI/UX & Design
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+### 🛠️ Technical Tools
+
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🔬 Core Engineering Tools
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?style=for-the-badge&logo=mathworks&logoColor=white)
-![Tanner EDA](https://img.shields.io/badge/Tanner%20EDA-%23003087.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==&logoColor=white)
+![Tanner EDA](https://img.shields.io/badge/Tanner%20EDA-%23003087.svg?style=for-the-badge&logoColor=white)
 ![TinkerCAD](https://img.shields.io/badge/TinkerCAD-%23F16529.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 
 </div>
-
 ---
 
 ## 📊 GitHub Stats
@@ -126,16 +98,6 @@ Graphs      ░░░░░░░░░░░░░░░░░░░░   0%
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=ELAKKIYASRI11&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -145,38 +107,26 @@ Graphs      ░░░░░░░░░░░░░░░░░░░░   0%
 </div>
 
 ---
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
 ## 🎯 Fun Facts About Me
 
-- 🧠 I **plan before I code** — my notes are my best debugger
-- 📅 I **schedule my goals** like meetings — because they matter
-- 🔁 Failed solution? I **restart with a fresh mind** — no ego, only growth
-- ☕ Best debugging partner? A quiet room and a clear problem statement
-
----
-
-<div align="center">
-
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ELAKKIYASRI11/ELAKKIYASRI11/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ELAKKIYASRI11/ELAKKIYASRI11/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ELAKKIYASRI11/ELAKKIYASRI11/output/github-snake.svg" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=ELAKKIYASRI11&icon=5&color=6)](https://visitcount.itsvg.in)
+- 🧠 I **plan before I code** — my notes know me better than I know myself 😄
+
+- 📅 My goals take **time** — but always finish **strong** ✅ 😎
+
+- 🔁 Failed solution? **Fresh start, better mindset** 🙌
+
+- ☕ Best debugging partner? **Silence and a clear problem statement** 😌
+
+- 💡 I don't just write code — I write code **worth reading** 🌟
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
